@@ -1,0 +1,6 @@
+#define MAX_TEDDY 20 
+#define MAX_STOCKEX 64
+#define MAX_TRANSAC 20
+#define MAX_STRING 64
+#define MAX_TEDDY_NAME 64
+#define AVAILABLE_GOODS 3

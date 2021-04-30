@@ -1,0 +1,46 @@
+\relax 
+\catcode`:\active
+\catcode`;\active
+\catcode`!\active
+\catcode`?\active
+\select@language{french}
+\@writefile{toc}{\select@language{french}}
+\@writefile{lof}{\select@language{french}}
+\@writefile{lot}{\select@language{french}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Contexte}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Probl\IeC {\'e}matique}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Cadre de travail}{2}}
+\@writefile{toc}{\contentsline {paragraph}{}{2}}
+\@writefile{toc}{\contentsline {paragraph}{}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Structure du projet}{2}}
+\@writefile{toc}{\contentsline {paragraph}{}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Les structures de base}{3}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}Structure Teddy}{3}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}Structures transac et stockex}{3}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}Enum\IeC {\'e}ration des ressources}{3}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4}Structure Queue}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Les fichiers de code}{4}}
+\@writefile{toc}{\contentsline {paragraph}{}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces La structure des r\IeC {\'e}pertoires du projet}}{5}}
+\newlabel{fig:rep}{{1}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Le fichier Makefile}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Pr\IeC {\'e}sentation du Makefile}}{5}}
+\newlabel{fig:make}{{2}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Gestion du jeu}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}La file \IeC {\`a} priorit\IeC {\'e}}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}La boucle de jeu}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.1}La strat\IeC {\'e}gie al\IeC {\'e}atoire}{7}}
+\@writefile{toc}{\contentsline {paragraph}{}{7}}
+\@writefile{toc}{\contentsline {paragraph}{}{7}}
+\@writefile{toc}{\contentsline {paragraph}{}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces D\IeC {\'e}roulement du jeu}}{9}}
+\newlabel{fig:jeu}{{3}{9}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.2}La deuxi\IeC {\`e}me strategie}{9}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {5}Choix des strat\IeC {\'e}gies}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces La boucle de jeu final}}{10}}
+\newlabel{fig:final}{{4}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Les fichiers de tests}{11}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {6}Les tests des diff\IeC {\'e}rentes fonctions}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{11}}
+\@writefile{toc}{\contentsline {paragraph}{}{11}}
